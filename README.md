@@ -13,8 +13,8 @@ The following things were studied in this analysis:
 Further, a Graphical User Interface was also developed using tkinter to visualize the trends for a pollutant over time.
 A short article on the same can be found at: https://medium.com/@ysg/a-gui-for-usa-pollution-trends-1c7a3627f150
 The sample input and output for the GUI is as follows:
-![Input for the GUI](https://github.com/yashgokhale/US_Pollution_R/blob/master/input.png)
-![Output for the GUI](https://github.com/yashgokhale/US_Pollution_R/blob/master/output.png)
+![Input for the GUI] (https://github.com/yashgokhale/US_Pollution_R/blob/master/input.png)
+![Output for the GUI] (https://github.com/yashgokhale/US_Pollution_R/blob/master/output.png)
 
 You can get back to me at ysg@andrew.cmu.edu for any further clarifications or suggestions.
 

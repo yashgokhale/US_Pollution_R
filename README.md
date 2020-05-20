@@ -1,6 +1,9 @@
 # US_Pollution_Data Analysis using R
 The analysis of USA Pollution Data was done using visualization tools in R. The base data was generated through https://aqs.epa.gov/aqsweb/airdata/download_files.html
 
+Combined data files have been made available at: https://drive.google.com/drive/folders/1yKqv8DsB6o1szznw1qjfyM8zmG-egUOE?usp=sharing​
+(Developed in collaboration with Ms. Madhulika Dashputre and Mr. Hariharan Ramasubramanian at CMU)
+
 The following things were studied in this analysis:
 1. Visualization of Time Variance of Pollutants
 2. Sample size consideration (Choose the right number of samples to be taken)

@@ -19,6 +19,8 @@ The sample input and output for the GUI is as follows:
 ![Input for the GUI](https://github.com/yashgokhale/US_Pollution_R/blob/master/input.png)
 ![Output for the GUI](https://github.com/yashgokhale/US_Pollution_R/blob/master/output.png)
 
+![Summary](https://github.com/yashgokhale/US_Pollution_R/blob/master/uspollution_summary.jpg)
+
 You can get back to me at ysg@andrew.cmu.edu for any further clarifications or suggestions.
 
 
